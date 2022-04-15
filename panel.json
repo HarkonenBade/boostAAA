@@ -16,15 +16,12 @@
         "tolerance": "5mm"
     },
     "tabs": {
-        "type": "full",
+        "type": "full"
     },
     "cuts": {
         "type": "vcuts"
     },
     "framing": {
-        "type": "frame",
-	    "hspace": "10mm",
-        "vspace": "0mm",
-	    "width": "5mm"
+        "type": "none",
     }
 }
