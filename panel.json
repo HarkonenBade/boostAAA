@@ -4,8 +4,8 @@
         "type": "grid",
         "rows": 6,
         "cols": 1,
-        "vspace": "0mm",
-        "hspace": "10mm",
+        "vspace": "2mm",
+        "hspace": "0mm",
         "rotation": "0deg",
         "alternation": "none",
         "renamenet": "Board_{n}-{orig}",
@@ -16,7 +16,8 @@
         "tolerance": "5mm"
     },
     "tabs": {
-        "type": "full"
+        "type": "fixed",
+        "width": "40mm"
     },
     "cuts": {
         "type": "vcuts"
