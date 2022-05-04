@@ -1,0 +1,5 @@
+EESchema-DOCLIB  Version 2.0
+$CMP MCP1642B-50I/MS
+D Hot Swap Voltage Controllers 1.5-V to 5.5-V, 1.5-A, 0.5-uA IQ ideal diode with Integrated FET 6-SC70 -40 to 105
+F https://www.farnell.com/datasheets/1886711.pdf
+$ENDCMP

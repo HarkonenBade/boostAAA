@@ -1,0 +1,2 @@
+wheel
+git+https://github.com/HarkonenBade/kicad-autogen.git@main#egg=kicad-autogen
